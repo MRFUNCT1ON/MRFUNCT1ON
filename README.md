@@ -10,6 +10,22 @@
 You've found my GitHub profile - this is where you can learn all about the public projects and code that I've worked on or contributed to. If you have the ability to, feel free to fork or clone - just be sure to also follow any included licenses (Don't worry, I'm fairly permissive with my own creations)!
 <hr />
 
+### Things I am working on: 
+<p align="left">
+    <ul>
+        <li><b>Function Island</b> - Dapps and Games on the TRON Blockchain, with simple HTML-based interfaces</li>
+    </ul>
+</p>
+<hr />
+
+### Things I have worked on / built: 
+<p align="left">
+    <ul>
+        <li><b>PyroReloaded</b> - A rescue-effort site for a project which was relatively popular on TRON and ETH.</li>
+    </ul>
+</p>
+<hr />
+
 ### Languages and Tools:
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a> 
@@ -18,4 +34,11 @@ You've found my GitHub profile - this is where you can learn all about the publi
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
     <a href="https://www.linux.org/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
+<hr />
+
+### DONATE TRON:
+<p align="center">
+    <img src="https://chart.googleapis.com/chart?chs=350x350&amp;cht=qr&amp;chl=TPqbdm4ZttMc2vr7Axq5gziT5crKBBC6JD&amp;choe=UTF-8" /><br />
+    <b>TPqbdm4ZttMc2vr7Axq5gziT5crKBBC6JD</b>
 </p>
