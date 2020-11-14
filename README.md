@@ -1,4 +1,4 @@
-![Banner](https://github.com/MRFUNCT1ON/MRFUNCT1ON/blob/master/Github-Profile-Cover.png)
+![Banner](https://github.com/MRFUNCT1ON/MRFUNCT1ON/blob/main/Github-Profile-Cover.png)
 
 <p align="center"> 
     <img src="https://profile-counter.glitch.me/MRFUNCT1ON/count.svg" /><br />
