@@ -13,7 +13,7 @@ You've found my GitHub profile - this is where you can learn all about the publi
 ### Things I am working on: 
 <p align="left">
     <ul>
-        <li><b>Function Island</b> - Dapps and Games on the TRON Blockchain, with simple HTML-based interfaces</li>
+        <li><b><a href="https://functionisland.com">Function Island</a></b> - Dapps and games on the TRON Blockchain, with simple HTML-based interfaces</li>
     </ul>
 </p>
 <hr />
@@ -21,7 +21,7 @@ You've found my GitHub profile - this is where you can learn all about the publi
 ### Things I have worked on / built: 
 <p align="left">
     <ul>
-        <li><b>PyroReloaded</b> - A rescue-effort site for a project which was relatively popular on TRON and ETH.</li>
+        <li><b><a href="https://pyroreloaded.xyz">PyroReloaded</a></b> - A rescue-effort site for a project which was relatively popular on TRON and ETH.</li>
     </ul>
 </p>
 <hr />
