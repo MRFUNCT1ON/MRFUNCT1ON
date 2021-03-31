@@ -13,7 +13,9 @@ You've found my GitHub profile - this is where you can learn all about the publi
 ### Things I am working on: 
 <p align="left">
     <ul>
-        <li><b><a href="https://functionisland.com">Function Island</a></b> - Dapps and games on the TRON Blockchain, with simple HTML-based interfaces</li>
+        <li><b><a href="https://functionisland.xyz">Function Island (1st Edition)</a></b> - Dapps and games on the TRON Blockchain, with simple HTML-based interfaces</li>
+        <li><b><a href="https://functionisland.com">Function Island (revamped)</a></b> - The same operational parts as Function Island (1st Edition), with a new CSS framework (replaced Bootstrap with Halfmoon-UI)</li>
+        <li><b><a href="https://functionisland.net">Function Island (BSC Edition)</a></b> - Proof of Weak Hands and several other concepts implemented in web languages and solidity, deployed to Binance Smart Chain.</li>
     </ul>
 </p>
 <hr />
