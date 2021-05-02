@@ -7,20 +7,24 @@
 <hr />
 
 ### Hello, my name is MRFUNCT1ON! 👋
-You've found my GitHub profile - this is where you can learn all about the public projects and code that I've worked on or contributed to. If you have the ability to, feel free to fork or clone - just be sure to also follow any included licenses (Don't worry, I'm fairly permissive with my own creations)!
+I'm a freelance Smart Contract and Dapp developer, with a focus on full-stack application development.
+
+Typically, my creations contain HTML, JS and CSS, with Smart Contracts always published with verified source code on the most reputable block explorer applications. For the most part, I build and release my works under three main licenses (all used individually) - the **MIT License**, the **Apache 2.0 License** and my personal favourite, the **Do what the Fuck You Want To License**.
+
+My GitHub profile is where you can learn all about the public projects and code that I've worked on or contributed to. Thank you for stopping by!
 <hr />
 
-### Things I am working on: 
+### My active projects: 
 <p align="left">
     <ul>
         <li><b><a href="https://functionisland.xyz">Function Island (1st Edition)</a></b> - Dapps and games on the TRON Blockchain, with simple HTML-based interfaces</li>
-        <li><b><a href="https://functionisland.com">Function Island (revamped)</a></b> - The same operational parts as Function Island (1st Edition), with a new CSS framework (replaced Bootstrap with Halfmoon-UI)</li>
+        <li><b><a href="https://functionisland.com">Function Island (2nd Edition)</a></b> - The same operational parts as Function Island (1st Edition), with a new CSS framework (replaced Bootstrap with Halfmoon-UI)</li>
         <li><b><a href="https://functionisland.net">Function Island (BSC Edition)</a></b> - Proof of Weak Hands and several other concepts implemented in web languages and solidity, deployed to Binance Smart Chain.</li>
     </ul>
 </p>
 <hr />
 
-### Things I have worked on / built: 
+### Projects I've worked on / built / contributed to
 <p align="left">
     <ul>
         <li><b><a href="https://pyroreloaded.xyz">PyroReloaded</a></b> - A rescue-effort site for a project which was relatively popular on TRON and ETH.</li>
@@ -39,8 +43,3 @@ You've found my GitHub profile - this is where you can learn all about the publi
 </p>
 <hr />
 
-### DONATE TRON:
-<p align="center">
-    <img src="https://chart.googleapis.com/chart?chs=350x350&amp;cht=qr&amp;chl=TPqbdm4ZttMc2vr7Axq5gziT5crKBBC6JD&amp;choe=UTF-8" /><br />
-    <b>TPqbdm4ZttMc2vr7Axq5gziT5crKBBC6JD</b>
-</p>
