@@ -17,6 +17,7 @@ My GitHub profile is where you can learn all about the public projects and code 
 ### My active projects: 
 <p align="left">
     <ul>
+        <li><b><a href="https://gangster.finance">Gangster Finance</a></b> - Single-asset vaults which dispense dual rewards, on Binance Smart Chain.</li>
         <li><b><a href="https://functionisland.xyz">Function Island (1st Edition)</a></b> - Dapps and games on the TRON Blockchain, with simple HTML-based interfaces</li>
         <li><b><a href="https://functionisland.com">Function Island (2nd Edition)</a></b> - The same operational parts as Function Island (1st Edition), with a new CSS framework (replaced Bootstrap with Halfmoon-UI)</li>
         <li><b><a href="https://functionisland.net">Function Island (BSC Edition)</a></b> - Proof of Weak Hands and several other concepts implemented in web languages and solidity, deployed to Binance Smart Chain.</li>
@@ -27,7 +28,7 @@ My GitHub profile is where you can learn all about the public projects and code 
 ### Projects I've worked on / built / contributed to
 <p align="left">
     <ul>
-        <li><b><a href="https://pyroreloaded.xyz">PyroReloaded</a></b> - A rescue-effort site for a project which was relatively popular on TRON and ETH.</li>
+        <li><b>PyroReloaded</b> - A rescue-effort site for a project which was relatively popular on TRON and ETH. Due to lack of community effort in revival, the domain has been let go, and the site has been since cancelled.</li>
     </ul>
 </p>
 <hr />
