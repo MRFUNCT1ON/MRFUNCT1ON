@@ -13,6 +13,12 @@ I'm a full-stack web developer & solidity smart contract engineer, with around 5
 <a href="https://www.x.com/don_function" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/don_function?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"/></a>
 
+### Portfolio
+* 👉 [Degen Protocol](https://degenprotocol.io)
+* 👉 [Function Island](https://functionisland.com)
+* 👉 [PNS Ideas](https://pnsideas.com)
+* 👉 [PulseChain PokerClub](https://pokerclub.pls.to)
+
 ### Skills
 
 
