@@ -16,6 +16,7 @@ src="https://img.shields.io/twitter/follow/don_function?logo=twitter&style=for-t
 ### Projects
 * 👉 [Degen Protocol](https://degenprotocol.io)
 * 👉 [Function Island](https://functionisland.com)
+* 👉 [Drippy Inu](https://drippyinu.club)
 * 👉 [PNS Ideas](https://pnsideas.com)
 * 👉 [PulseChain PokerClub](https://pokerclub.pls.to)
 
