@@ -4,7 +4,7 @@
 
 <hr />
 
-I'm a full-stack web developer & solidity smart contract engineer, with around 5 years of experience in the field with many projects in the Ethereum / EVM-based chain space. I'm building two projects right now, 'Function Island' and 'Degen Protocol'.
+I'm a full-stack web developer & solidity smart contract engineer, with around 5 years of experience in the field with many projects in the Ethereum / EVM-based chain space.
 
 * 🚀  I'm currently working on [Degen Protocol](http://degenprotocol.io)
 * 🧠  I'm learning NextJS & TypeScript
